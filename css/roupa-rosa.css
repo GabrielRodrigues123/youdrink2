@@ -1,0 +1,15 @@
+#grande{
+    background-color: white;
+    display: flex;
+    justify-content: left;
+}
+.fundo{
+    width: 100%;
+    background-image: url(https://greatdivide.com/wp-content/uploads/2016/12/beer-rainbow-header-for-homepage-1.jpg)
+}
+.titulo{
+    background-color: black;
+    display: flex;
+    justify-content: right;
+    
+}
